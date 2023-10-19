@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.temiwrapper">
+
+    <application>    <meta-data
+        android:name="com.robotemi.sdk.metadata.SKILL"
+        android:value="android-library-boilerplate" /></application>
+
+</manifest>
